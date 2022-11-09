@@ -17,7 +17,7 @@
 
 - :zap: Hard-working, creative and proactive.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring good code writing.
 
 - :globe_with_meridians: In my free time, I am coding.
 
