@@ -19,7 +19,7 @@
 
 - :seedling: Exploring good code writing.
 
-- :globe_with_meridians: In my free time, I am coding.
+- :globe_with_meridians: In my free time I am coding.
 
 - :smiley: Getting better at website development every day.
 
