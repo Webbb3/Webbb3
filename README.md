@@ -13,7 +13,7 @@
 </h1>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 - :zap: Hard-working, creative and proactive.
 
