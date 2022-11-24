@@ -17,11 +17,13 @@
 
 - :zap: Hard-working, creative and proactive.
 
-- :seedling: Exploring good code writing.
+- :brain:	Exploring a good code writing.
 
 - :globe_with_meridians: In my free time I am coding.
 
 - :smiley: Getting better at website development every day.
+
+- :electron: Trust the process.
 
 ---
     
@@ -36,7 +38,7 @@
 
 ---
 
-### :fire: My Stats :
+### :octocat: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Webbb3&theme=highcontrast&border_radius=9.1&date_format=j%20M%5B%20Y%5D)]()
 
@@ -44,7 +46,7 @@
 
 ---
 
-### Active status :
+### :green_circle: Active status :
 
 <div id="status" align="center">
   <p>display: :muscle:;<p></div>
