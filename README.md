@@ -15,10 +15,6 @@
 </h1>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Secular+One&size=35&pause=100000&color=EEEEEE&center=true&vCenter=true&width=1000&lines=Hi+there+%2C+I'm+Webbb3+!)](https://git.io/typing-svg)
-
-
 ### :man_technologist: About Me :
 
 - :zap: Hard-working, creative and proactive.
