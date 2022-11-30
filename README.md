@@ -9,7 +9,9 @@
   </a>
 </div>
 <h1>
-  Hi there!:wave:
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Secular+One&size=35&pause=100000&color=EEEEEE&center=true&vCenter=true&width=1000&lines=Hi+there+%2C+I'm+Webbb3+!)](https://git.io/typing-svg)
+
 </h1>
 </div>
 
@@ -40,14 +42,18 @@
 
 ### :octocat: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Webbb3&theme=highcontrast&border_radius=9.1&date_format=j%20M%5B%20Y%5D)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webbb3&layout=compact&theme=vision-friendly-dark)]()
+<div align="center">  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Webbb3&show_icons=true&theme=vision-friendly-dark&border_radius=8" 
+       alt="Webbe`s stats" /> 
+  <img width="45%" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=Webbb3&theme=highcontrast&border_radius=8&date_format=j%20M%5B%20Y%5D"          alt="Webbe`s steak" /> 
+  <img width="45%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbb3&layout=compact&theme=vision-friendly-dark&border_radius=8"
+       alt="Webbe`s langs"/>
+</div>
 
 ---
 
 ### :green_circle: Active status :
 
 <div id="status" align="center">
-  <p>display: :muscle:;<p></div>
-    
+  <p>display: :muscle:;<p>
+</div>
