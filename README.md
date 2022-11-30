@@ -15,6 +15,10 @@
 </h1>
 </div>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Secular+One&size=35&pause=100000&color=EEEEEE&center=true&vCenter=true&width=1000&lines=Hi+there+%2C+I'm+Webbb3+!)](https://git.io/typing-svg)
+
+
 ### :man_technologist: About Me :
 
 - :zap: Hard-working, creative and proactive.
@@ -23,7 +27,7 @@
 
 - :globe_with_meridians: In my free time I am coding.
 
-- :smiley: Getting better at website development every day.
+- :date: Getting better at website development every day.
 
 - :electron: Trust the process.
 
@@ -43,10 +47,10 @@
 ### :octocat: My Stats :
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Webbb3&show_icons=true&theme=vision-friendly-dark&border_radius=8" 
+  <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Webbb3&show_icons=true&theme=vision-friendly-dark&border_radius=8" 
        alt="Webbe`s stats" /> 
-  <img width="45%" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=Webbb3&theme=highcontrast&border_radius=8&date_format=j%20M%5B%20Y%5D"          alt="Webbe`s steak" /> 
-  <img width="45%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbb3&layout=compact&theme=vision-friendly-dark&border_radius=8"
+  <img width="90%" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=Webbb3&theme=highcontrast&border_radius=8&date_format=j%20M%5B%20Y%5D"          alt="Webbe`s steak" /> 
+  <img width="90%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbb3&layout=compact&theme=vision-friendly-dark&border_radius=8"
        alt="Webbe`s langs"/>
 </div>
 
