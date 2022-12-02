@@ -43,7 +43,7 @@
 ### :octocat: My Stats :
 
 <div align="center">  
-  <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Webbb3&show_icons=true&theme=vision-friendly-dark&border_radius=8" 
+  <img width="60%" height="170px" src="https://github-readme-stats.vercel.app/api?username=Webbb3&hide=issues,contribs&show_icons=true&theme=vision-friendly-dark&border_radius=8" 
        alt="Webbe`s stats" /> 
   <img width="90%" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=Webbb3&theme=highcontrast&border_radius=8&date_format=j%20M%5B%20Y%5D"          alt="Webbe`s steak" /> 
   <img width="90%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbb3&layout=compact&theme=vision-friendly-dark&border_radius=8"
